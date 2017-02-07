@@ -13,9 +13,9 @@ To build run the bellow command on the project's root directory
 
     	java -cp simple-web-crawler-1.0.jar com.web.crawler.SimpleWebCrawler http://wiprodigital.com
 
-Sample O/P:
+Sample O/P:		java -cp simple-web-crawler-1.0.jar com.web.crawler.SimpleWebCrawler http://wiprodigital.com
 ----------
-java -cp simple-web-crawler-1.0.jar com.web.crawler.SimpleWebCrawler http://wiprodigital.com
+
 http://wiprodigital.com
 http://wiprodigital.com/who-we-are
 http://wiprodigital.com/who-we-are/#masthead
