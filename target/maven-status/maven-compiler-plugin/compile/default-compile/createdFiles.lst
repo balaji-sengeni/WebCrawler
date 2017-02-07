@@ -1,0 +1,3 @@
+com\web\crawler\SimpleWebCrawler.class
+com\web\crawler\BaseCrawler.class
+com\web\crawler\util\URLUtils.class
